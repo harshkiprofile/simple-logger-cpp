@@ -49,7 +49,7 @@ jobs:
           - os: macos-latest
             c_compiler: gcc
           - os: macos-latest
-            c_compiles: cl
+            c_compiler: cl
           
 
     steps:
