@@ -46,6 +46,9 @@ jobs:
             c_compiler: clang
           - os: ubuntu-latest
             c_compiler: cl
+          - os: macos-latest
+            c_compiler: gcc, cl
+            cpp_compiler: gcc, cl
           
 
     steps:
