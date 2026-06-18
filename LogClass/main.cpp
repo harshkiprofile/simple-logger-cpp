@@ -1,6 +1,7 @@
 #include "log.h"
 #include <iostream>
 #include <string>
+#include <cstring>
 
 int main(int argc, char* argv[]) {
 
